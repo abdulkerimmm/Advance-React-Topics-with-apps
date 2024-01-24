@@ -1,0 +1,18 @@
+.wrapPageEror {
+  height: 100vh;
+  background-color: rgba(0, 0, 0, 0.882);
+  position: fixed;
+  width: 100%;
+}
+
+.ErorBox {
+  width: 500px;
+  height: 150px;
+  background-color: rgb(255, 0, 64);
+  top: 50%;
+  /* z-index: 10; */
+  position: absolute;
+  top: 40%;
+  left: 35%;
+  color: white;
+}

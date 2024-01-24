@@ -1,0 +1,41 @@
+.formu {
+  background-color: rgb(255, 255, 255);
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+  align-items: flex-start;
+  width: 100%;
+  padding: 20px;
+}
+
+.formu input {
+  width: 100%;
+  height: 3vh;
+  margin-top: 5px;
+  margin-bottom: 5px;
+}
+
+.formu label {
+  font-size: 20px;
+  font-weight: bold;
+}
+
+.formu button {
+  padding: 3px;
+}
+
+.bigone {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  border-radius: 10px;
+  background: rgb(203, 69, 69);
+  /* position: relative; */
+  margin-bottom: 20px;
+  margin-top: 70px;
+}
+
+.buton {
+  margin-top: 60px;
+  margin-left: 420px;
+}
